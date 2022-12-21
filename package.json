@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer ejercicio con node",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio1": " node ejnode.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianAd/EjerciciosBtcam.git"
+  },
+  "keywords": [
+    "primer hola",
+    "mundo"
+  ],
+  "author": "Cristian Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianAd/EjerciciosBtcam/issues"
+  },
+  "homepage": "https://github.com/CristianAd/EjerciciosBtcam#readme"
+}
