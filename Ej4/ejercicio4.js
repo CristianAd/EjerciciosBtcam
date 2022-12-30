@@ -17,7 +17,7 @@ let primerLetraNombre =  nombre.charAt(0)
 let ultimaLetraApellido =  apellido.charAt(4)
 //Ej9
 let textoSinEspaciosEstudiante = estudiante.replace(/\s/g, "") 
- //Ej10
+ //Ej1
 let variableContieneEstudiante = estudiante.includes("Cristian")
 console.log(variableContieneEstudiante)
  
