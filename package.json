@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CristianAd/EjerciciosBtcam/issues"
   },
-  "homepage": "https://github.com/CristianAd/EjerciciosBtcam#readme"
+  "homepage": "https://github.com/CristianAd/EjerciciosBtcam#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
 }
