@@ -1,0 +1,35 @@
+.contenedor-padre{
+    background-color: rgb(36, 75, 55);
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.contenedor-hijo{
+    margin: 1rem;
+}
+.parrafo{
+    background-color: aliceblue;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.draging{
+    background-color: greenyellow;
+}
+
+ 
+.seccion-papelera{
+    background-color: rgb(255, 251, 251);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8rem;
+}
+
+#basurero{
+    width: 2rem;
+    height: 2rem;
+    background-color: white;
+    position: absolute;
+    left: -100vw;
+}
